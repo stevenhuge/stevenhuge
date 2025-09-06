@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🎓 - Undergraduate Student in Universitas Amikom Yogyakarta<br>🎓 - Information System, Bachelor Degree<br>👨‍💻 - I'm currently crowned as a Web Developer<br>🧑‍💻 - Interest for Game Developer
+🧑‍🎓 - Undergraduate Student in University Amikom Yogyakarta<br>🎓 - Information System, Bachelor Degree<br>👨‍💻 - I'm currently crowned as a Web Developer<br>🧑‍💻 - Interest for Game Developer
 
 
 ## 🌐 Socials:
